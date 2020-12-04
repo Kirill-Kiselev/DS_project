@@ -12,5 +12,3 @@
 В проекте использованы библиотеки:
 - pandas
 - pymystem3
-- numpy
-- scipy
